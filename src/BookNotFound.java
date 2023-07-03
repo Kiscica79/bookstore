@@ -5,7 +5,4 @@ public class BookNotFound extends Exception {
     }
 
 
-    public BookNotFound() {
-
-    }
 }
